@@ -11,4 +11,5 @@ public interface Graph {
 	public int getEdge(int v1, int v2);
 	public int createSpanningTree();
 
+
 }
